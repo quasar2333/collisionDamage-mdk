@@ -1,0 +1,15 @@
+[
+  {
+    "modid": "collisiondamage",
+    "name": "CollisionDamage",
+    "description": "Collision Damage Mod introduces a customizable potion effect that deals additional damage to entities upon collision at high speeds",
+    "version": "1.0",
+    "mcversion": "1.12.2",
+    "updateUrl": "",
+    "authorList": ["究极凯文"],
+    "credits": "",
+    "logoFile": "assets/collisiondamage/logo.png",
+    "screenshots": ["assets/collisiondamage/screenshots/screenshot1.png", "assets/collisiondamage/screenshots/screenshot2.png"],
+    "dependencies": []
+  }
+]
